@@ -1,4 +1,4 @@
-# Pedra, Papel e Tesoura
+# Pedra :facepunch:, Papel :raised_hand: e Tesoura :v: :
 
 Este é um simples jogo de "Pedra, Papel e Tesoura" implementado em Python.
 
